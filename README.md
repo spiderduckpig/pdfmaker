@@ -2,3 +2,6 @@ This is a free tool to convert, clarify, compress, and combine images of homewor
 
 
 Instructions: put images (jpg or png) in alphabetical order in the input folder. Then run process.py and then run topdf.py. Then the final pdf will be put in the Final folder. If you want to clear the directories to add new files run clear.py.
+
+
+Please install the necessary packages (requirements.txt) with your package manager of choice before use.
